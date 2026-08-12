@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Weatherforecastapp</string>
+    <string name="app_name">Weather App</string>
+    <string name="weather_icon">☀️</string>
+    <string name="weather_app_title">Weather App</string>
+    <string name="weather_app_subtitle">Current weather at your fingertips</string>
+    <string name="city_hint">Enter a city name</string>
+    <string name="search_weather">Search Weather</string>
+    <string name="empty_city_error">Please enter a city name.</string>
 </resources>
