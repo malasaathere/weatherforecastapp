@@ -2,10 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="weather_background">#F3F7FC</color>
     <color name="weather_primary">#1769AA</color>
-    <color name="weather_primary_text">#17233C</color>
+    <color name="weather_text">#17233C</color>
     <color name="weather_secondary_text">#5F6B7A</color>
-    <color name="weather_divider">#DCE5F0</color>
+    <color name="weather_border">#DCE5F0</color>
     <color name="weather_error">#B3261E</color>
+    <color name="weather_screen_bg">#F3F7FC</color>
 </resources>
